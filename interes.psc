@@ -1,15 +1,19 @@
-Algoritmo interés
-	Definir tiempo Como entero;
-	definir tasa, capital como real;
-	
-	tasa = 0.05;
-	Escribir "Tenga en cuenta que la tasa de interes es del 5%";
-	
-	escribir "Por favor ingrese el valor del capital: "; 
-	leer capital;
-	escribir "Por favor, ingrese la cantidad de tiempo: ";
-	leer tiempo;
-	
-	Escribir "El interes simple generado es: $", capital * tasa * tiempo;
+Algoritmo interes
+		
+		Definir capital, tiempo, tasa, intereses Como Real
+
+		tasa <- 0.30
+		
+		Escribir "La tasa de interés es del 30% anual."
+		
+		Escribir "Ingresá el capital inicial:"
+		Leer capital
+		
+		Escribir "Ingresá el tiempo (en años):"
+		Leer tiempo
+		
+		intereses <- capital * tasa * tiempo
+		
+		Escribir "El interés generado es: ", intereses
 
 FinAlgoritmo
