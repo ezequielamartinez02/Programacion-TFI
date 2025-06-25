@@ -1,5 +1,6 @@
 Algoritmo Triángulo
-	//Se definen las variables a utilizar
+	// 'base' y 'altura' almacenan las dimensiones del triángulo
+	// 'Area_Total' almacenará el resultado del cálculo del área	
 	definir base, altura, Area_Total Como Entero;
 	
 	//Se le solicita al usuario que ingrese los valores correspondientes de la base y la altura

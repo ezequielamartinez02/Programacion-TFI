@@ -1,9 +1,14 @@
 Algoritmo Suma_de_matrices
+	// 'Filas' y 'columnas' determinan el tamaño de las matrices
+	// 'i' y 'j' son contadores para recorrer las filas y columnas
+	// 'Primera_Matriz', 'Segunda_Matriz' y 'Matriz_resultado' son las matrices que se utilizarán
 	Definir Filas, columnas, i, j,Primera_Matriz,Segunda_Matriz,Matriz_resultado Como Entero;
 	
+	// Se solicita al usuario el número de filas que tendrán las matrices
 	escribir "Por favor, ingresar el numero de filas de las matrices: ";
 	leer filas;
 	
+	// Se solicita al usuario el número de columnas que tendrán las matrices
 	escribir "Por favor, ingresar el numero de columnas de las matrices: ";
 	Leer columnas;
 	
