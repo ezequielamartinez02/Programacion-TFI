@@ -20,7 +20,13 @@ Programacion
 
 Pseint
 
+# Descripción
 
+Este Trabajo Final Integrador (TFI) tiene como propósito aplicar los conocimientos adquiridos a lo largo de la materia.
+
+El proyecto abarca ejercicios que involucran operaciones matemáticas, manejo de cadenas, estructuras repetitivas, condicionales, matrices y generación de números aleatorios, entre otros conceptos vistos durante la cursada.
+
+# Ejercicios realizados
 
 Calculadora:
 Este ejercicio debe solicitar dos números y la operación que desea
