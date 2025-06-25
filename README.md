@@ -1,24 +1,25 @@
 # Programacion-TFI
 ## Trabajo Integrador Final
------------------------------------------------------------------------------------
 
-## Integrantes del equipo
------------------------------------------------------------------------------------
+
+# Integrantes del equipo
 
 -Martinez Ezequiel
+
 -Palma Mauro
+
 -Gómez Toledo Álvaro 
 
-## Carrera
------------------------------------------------------------------------------------
+# Carrera
+
 Tecnicatura Universitaria en Telecomunicaciones
 
-## Materia
------------------------------------------------------------------------------------
+# Materia
+
 Programacion
 
-## Programa Utilizado
------------------------------------------------------------------------------------
+# Programa Utilizado
+
 Pseint
 
 
